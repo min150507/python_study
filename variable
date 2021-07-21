@@ -1,0 +1,13 @@
+# variable
+## A variable name consists of alphabets, numbers, and _ (underbar), and a number cannot come first.
+
+a = 123
+a
+print(a)
+type(a)
+b = 0.45
+b
+type(b)
+a = 123, b = 45
+a, b
+print(a, b)
