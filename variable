@@ -9,7 +9,8 @@ b = 0.45
 b
 type(b)
 a = 123, b = 45
-a b
+a
+b
 print(a, b)
 a + b
 a + b, a - b, a * b, a / b
@@ -25,7 +26,10 @@ d = 'World!'
 d
 type(c)
 type(d)
-a b c d
+a
+b
+c
+d
 print(a) print(b) print(c) print(d)
 a, b, c, d
 print(a, b, c, d)
